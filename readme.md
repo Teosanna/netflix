@@ -1,0 +1,1 @@
+Ciao a tutti, mi trovo costretto a consegnare il compito cosi in quanto ho avuto un guasto al mio pc e ho dovuto reperire di fretta e furia un pc da un'amico. Purtoppo non ho avuto il tempo di ricreare qualcosa di decente in quanto tutto questo è accaduto stamattina. Ad ogni modo mi prenderò del tempo per completare lo lavoro nel migliore dei modi anche se con il tempo scaduto

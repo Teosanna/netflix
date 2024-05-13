@@ -1,0 +1,67 @@
+html,
+body {
+	background-color: black;
+}
+
+.main {
+    background-color: black;
+}
+
+.container-fluid {
+    display: flex;
+} 
+
+.logo {
+    width: 7%;
+}
+
+.d-flex {
+    padding-left: 60%;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.tv-show {
+    display: flex;
+    padding: 2%;
+    padding-left: 38px;
+}
+
+.dropdown {
+    padding-left: 3%;
+}
+
+.dropdown-toggle {
+    background-color: transparent;
+    border: 2px;
+    border-color: white;
+    border-radius: 10px;
+}
+
+.dropdown-toggle:hover {
+    background-color: transparent;
+    border: 2px;;
+    border-color: white;
+    border-radius: 10px;
+}
+
+.avatar {
+    width: 50px;
+}
+
+
+.titolo-carosello {
+    color: white;
+    padding-left: 38px;
+    font-size: 20px;
+}
+
+.carousel-inner {
+    display: flex;
+}
+
+
+
+
